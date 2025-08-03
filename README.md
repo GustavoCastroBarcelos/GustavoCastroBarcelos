@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2>👋 Hi, I'm Gustavo </h2>
+I am a backend developer.
 
-<!--
-**GustavoCastroBarcelos/GustavoCastroBarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Language & Tools
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,hibernate,redis,docker,gcp,idea" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### 💬 Social Media
+
+[![Site](https://img.shields.io/badge/Site-555555?style=for-the-badge&logo=htmx&logoColor=1f6feb)](https://gustavobarcelos.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=1f6feb)](mailto:gustavoscbarcelos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=invision&logoColor=1f6feb)](https://gustavobarcelos.com/linkedin)
